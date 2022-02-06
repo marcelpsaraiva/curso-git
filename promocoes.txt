@@ -1,1 +1,1 @@
-“codigo finalizado de promoções”
+codigo finalizado de promoções sem bug
